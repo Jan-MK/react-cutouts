@@ -1,5 +1,5 @@
 {
-  "name": "react-cutout",
+  "name": "react-cutouts",
   "version": "1.0.0",
   "description": "Create text or svg cutouts of the overlay that lies on top of an image.",
   "main": "index.js",

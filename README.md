@@ -1,6 +1,6 @@
-# React Cutout
+# React Cutouts
 
-`react-cutout` is a customizable React component that provides a unique way to display images with overlaying text or SVG content. It allows for dynamic styling, including the ability to set custom background images, overlay colors, and text styles.
+`react-cutouts` is a customizable React component that provides a unique way to display images with overlaying text or SVG content. It allows for dynamic styling, including the ability to set custom background images, overlay colors, and text styles.
 
 ## Features
 
@@ -12,24 +12,24 @@
 
 ## Installation
 
-Install `react-cutout` using npm:
+Install `react-cutouts` using npm:
 
 ```bash
-npm install react-cutout
+npm install react-cutouts
 ```
 
 Or using yarn:
 
 ```bash
-yarn add react-cutout
+yarn add react-cutouts
 ```
 
 ## Usage
 
-Import `ReactCutout` in your React component:
+Import `ReactCutouts` in your React component:
 
 ```jsx
-import ReactCutout from 'react-cutout';
+import ReactCutouts from 'react-cutouts';
 ```
 
 Then use it in your component:

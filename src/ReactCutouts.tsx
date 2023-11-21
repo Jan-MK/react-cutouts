@@ -1,6 +1,6 @@
 import React from 'react';
 
-interface ReactCutoutProps {
+interface ReactCutoutsProps {
     imageUrl: string;
     cutoutContent: React.ReactNode;
     overlayColor: string;
@@ -9,7 +9,7 @@ interface ReactCutoutProps {
     textStyle?: React.CSSProperties;
 }
 
-const ReactCutout: React.FC<ReactCutoutProps> = ({
+const ReactCutouts: React.FC<ReactCutoutsProps> = ({
                                                      imageUrl,
                                                      cutoutContent,
                                                      overlayColor,
@@ -74,4 +74,4 @@ const ReactCutout: React.FC<ReactCutoutProps> = ({
     );
 };
 
-export default ReactCutout;
+export default ReactCutouts;
