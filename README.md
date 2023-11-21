@@ -35,7 +35,7 @@ import ReactCutouts from 'react-cutouts';
 Then use it in your component:
 
 ```jsx
-<ReactCutout
+<ReactCutouts
   imageUrl="path-to-your-image.jpg"
   cutoutContent="Your Text or SVG"
   overlayColor="#000000"
@@ -61,4 +61,4 @@ Contributions are welcome! Please read our [Contributing Guide](CONTRIBUTING.md)
 
 ## License
 
-`react-cutout` is available under the [MIT License](LICENSE).
+`react-cutouts` is available under the [MIT License](LICENSE).
