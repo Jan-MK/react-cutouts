@@ -56,7 +56,9 @@ Then use it in your component:
 
 ## Contributing
 
-Contributions are welcome!
+Contributions are welcome! Please read our [Contributing Guide](CONTRIBUTING.md) for details on how to submit pull requests, bug reports, and feature requests.
+
 
 ## License
-Not yet licensed.
+
+`react-cutout` is available under the [MIT License](LICENSE).
